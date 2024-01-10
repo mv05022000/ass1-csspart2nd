@@ -1,0 +1,60 @@
+
+.header{
+    border: 1px solid black;
+    height: 100px;
+    text-align: center;
+    background-color: blue;
+    font-size: 50px;
+    
+    
+}
+#nav{
+    border: 1px solid black;
+    background-color: pink;
+}
+#n1{
+background-color: aliceblue;
+align-items: center;
+}
+.div1{text-align: left;
+    height: 200px;
+    width: 80%;
+    border: 1px solid black;
+    background-color: blue;
+    font-size: 30px;
+}
+#d1{
+    font-size: 20px;
+
+   text-align: center;
+    width: 30%;
+    height: 30px;
+background-color: lightblue;
+
+}
+.div2{
+    font-size: 50px;
+    text-align: center;
+    float: right;
+    background-color: plum;
+    width: 20%;
+    position: absolute;
+    left :80%;
+    height: 200px;
+    top: 110px; 
+}
+#d2{
+    padding-left: 50px;
+
+   background-color: antiquewhite; 
+   width: 100px;
+   height: 30px;
+   font-size: 20px;
+}
+.footer{
+    height: 100px;
+    background-color: pink;
+    text-align: center;
+    font-size: 50px;
+
+}
